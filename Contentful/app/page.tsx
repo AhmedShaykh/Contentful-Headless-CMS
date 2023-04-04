@@ -1,11 +1,27 @@
 import React from 'react';
 import style from './page.module.css';
 
-const page = () => {
+async function getBlogs() {
+
+    const res = await fetch(`https://cdn.contentful.com/spaces/${process.env.CONTENTFUL_SPACE_ID}/entries?access_token=${process.env.CONTENTFUL_ACCESS_KEY}&content_type=blog`);
+
+    if (!res.ok) {
+        throw new Error('Failed to Fetch Data');
+    }
+
+    return res.json();
+};
+
+const page = async () => {
+
+    const blogs = await getBlogs();
+
     return (
-        <div className={style.main}>
-            <h1>Contentful Headless CMS With NEXT.JS 13</h1>
-        </div>
+        <ul>
+            {blogs.items.map((item: any) => (
+                <li>{item.fields.name}</li>
+            ))}
+        </ul>
     )
 };
 
