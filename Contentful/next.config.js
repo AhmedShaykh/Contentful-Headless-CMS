@@ -4,8 +4,8 @@ const nextConfig = {
     appDir: true,
   },
   env: {
-    SPACE_ID: "",
-    CONTENTFUL_ACCESS_KEY: ""
+    SPACE_ID: "ht0d1lf54ae1",
+    CONTENTFUL_ACCESS_KEY: "blUYlqvEzSy_Ip1hhSj5Wg9LR2ho1DGDUa8-YThxoJ8"
   }
 };
 

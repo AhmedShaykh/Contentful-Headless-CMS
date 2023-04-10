@@ -1,5 +1,4 @@
 import React from 'react';
-import style from './page.module.css';
 
 async function getBlogs() {
 
