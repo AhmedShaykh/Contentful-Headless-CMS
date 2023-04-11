@@ -14,14 +14,10 @@ async function getBlogs() {
 const page = async () => {
 
     const blogs = await getBlogs();
-    console.log(blogs);
 
     return (
-        <ul>
-            {/* {blogs.items.map((item: any) => (
-                <li>{item.fields.name}</li>
-            ))} */}
-        </ul>
+        <>
+        </>
     )
 };
 
