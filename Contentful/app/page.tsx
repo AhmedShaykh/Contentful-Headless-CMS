@@ -2,11 +2,11 @@ import React from 'react';
 
 async function getBlogs() {
 
-    const res = await fetch(`https://cdn.contentful.com/spaces/${process.env.CONTENTFUL_SPACE_ID}/entries?access_token=${process.env.CONTENTFUL_ACCESS_KEY}&content_type=blog`);
+    const res = await fetch(`https://cdn.contentful.com/spaces/${process.env.SPACE_ID}/environments/master/content_types?access_token=${process.env.CONTENTFUL_ACCESS_KEY}`);
 
     if (!res.ok) {
         throw new Error('Failed to Fetch Data');
-    }
+    }   
 
     return res.json();
 };
@@ -14,12 +14,13 @@ async function getBlogs() {
 const page = async () => {
 
     const blogs = await getBlogs();
+    console.log(blogs);
 
     return (
         <ul>
-            {blogs.items.map((item: any) => (
+            {/* {blogs.items.map((item: any) => (
                 <li>{item.fields.name}</li>
-            ))}
+            ))} */}
         </ul>
     )
 };
