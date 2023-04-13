@@ -5,7 +5,7 @@ import './page.css';
 
 async function getBlogs() {
 
-    const res = await fetch(`https://cdn.contentful.com/spaces/${process.env.SPACE_ID}/environments/master/entries?access_token=${process.env.CONTENTFUL_ACCESS_KEY}&content_type?`, { cache: 'no-store' });
+    const res = await fetch(`https://cdn.contentful.com/spaces/${process.env.SPACE_ID}/environments/master/entries?access_token=${process.env.CONTENTFUL_ACCESS_KEY}&content_type?`, { cache: 'no-cache' });
 
     if (!res.ok) {
         throw new Error('Failed to Fetch Data');
