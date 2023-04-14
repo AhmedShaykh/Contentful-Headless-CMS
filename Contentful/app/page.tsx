@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 import './page.css';
 
@@ -20,15 +19,28 @@ const page = async () => {
 
     return (
         <>
-            {blogs.items.map((item: any) => (
-                <div key={item.sys.id} className="container">
-                    <div className="title">
-                        {item.fields.title}
+            {blogs.items.map((item: any) => {
+
+                // const blogImage = blogs.includes.Asset.filter((img: any) => img.sys.id === item.fields.image.sys.id);
+                // console.log(blogImage);
+
+                return (
+                    <div key={item.sys.id} className="container">
+                        <div className="title">
+                            {item.fields.title}
+                        </div>
+                        <div className="box">{documentToReactComponents(item.fields.articleText)}</div>
+                        <div className="author">{item.fields.name}</div>
+                        <div>
+                            <img
+                                className='image'
+                                src={blogs.includes.Asset[0].fields.file.url}
+                                alt="Image"
+                            />
+                        </div>
                     </div>
-                    <div className="box">{documentToReactComponents(item.fields.articleText)}</div>
-                    <div className="author">{item.fields.name}</div>
-                </div>
-            ))}
+                );
+            })}
         </>
     )
 };
