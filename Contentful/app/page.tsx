@@ -18,11 +18,11 @@ const page = async () => {
     const blogs = await getBlogs();
 
     return (
-        <>
+        <div>
             {blogs.items.map((item: any) => {
 
-                // const blogImage = blogs.includes.Asset.filter((img: any) => img.sys.id === item.fields.image.sys.id);
-                // console.log(blogImage);
+                // const blogImg = blogs.includes.Asset.filter((img: any) => img.sys.id === item.fields.image.sys.id);
+                // console.log(blogImg);
 
                 return (
                     <div key={item.sys.id} className="container">
@@ -34,14 +34,14 @@ const page = async () => {
                         <div>
                             <img
                                 className='image'
-                                src={blogs.includes.Asset[0].fields.file.url}
+                                src={blogs.includes.Asset[1].fields.file.url}
                                 alt="Image"
                             />
                         </div>
                     </div>
                 );
             })}
-        </>
+        </div>
     )
 };
 
