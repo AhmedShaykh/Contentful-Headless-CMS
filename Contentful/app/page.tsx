@@ -21,7 +21,7 @@ const page = async () => {
         <div>
             {blogs.items.map((item: any) => {
 
-                // const blogImg = blogs.includes.Asset.filter((img: any) => img.sys.id === item.fields.image.sys.id);
+                // const blogImg = blogs.includes.Asset.filter((img: any) => img.sys.id === item.fields.profileImage.sys.id);
                 // console.log(blogImg);
 
                 return (
@@ -30,11 +30,10 @@ const page = async () => {
                             {item.fields.title}
                         </div>
                         <div className="box">{documentToReactComponents(item.fields.articleText)}</div>
-                        <div className="author">{item.fields.name}</div>
                         <div>
                             <img
                                 className='image'
-                                src={blogs.includes.Asset[1].fields.file.url}
+                                src={blogs.includes.Asset[0].fields.file.url}
                                 alt="Image"
                             />
                         </div>
