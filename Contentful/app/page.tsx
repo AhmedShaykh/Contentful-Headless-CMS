@@ -42,7 +42,17 @@ const page = async () => {
                         </div>
 
                         <div className="author">
-                            {authorData.fields.name}
+                            <div className="authorName">
+                                <img
+                                    className="authorImage"
+                                    src={blogs.includes.Asset[2].fields.file.url}
+                                    alt="Image"
+                                />
+                            </div>
+
+                            <div>
+                                {authorData.fields.name}
+                            </div>
                         </div>
                     </div>
                 );
