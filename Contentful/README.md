@@ -1,1 +1,0 @@
-# Contentful Headless CMS With NEXT.JS 13!

@@ -1,1 +1,1 @@
-# Headless CMS!
+# Contentful Headless CMS!
