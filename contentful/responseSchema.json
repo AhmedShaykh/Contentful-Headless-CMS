@@ -1,0 +1,477 @@
+{
+    "sys": {
+        "type": "Array"
+    },
+    "total": 2,
+    "skip": 0,
+    "limit": 100,
+    "items": [
+        {
+            "metadata": {
+                "tags": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ht0d1lf54ae1"
+                    }
+                },
+                "id": "3qumquSTCThSubVOsKp5Rk",
+                "type": "Entry",
+                "createdAt": "2023-04-16T15:39:45.699Z",
+                "updatedAt": "2023-04-16T16:21:00.016Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "revision": 2,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "blogPost"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Exclusive: Imran Khan on His Plan to Return to Power",
+                "articleText": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Political leaders often boast of inner steel. Imran Khan can point to three bullets dug out of his right leg. It was ",
+                                    "nodeType": "text"
+                                },
+                                {
+                                    "data": {
+                                        "uri": "https://time.com/6228747/imran-khan-assassination-attempt-pakistan-brink/"
+                                    },
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "marks": [],
+                                            "value": "in November",
+                                            "nodeType": "text"
+                                        }
+                                    ],
+                                    "nodeType": "hyperlink"
+                                },
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": " that a lone gunman opened fire on Khan during a rally, wounding the 70-year-old as well as several supporters, one fatally. “One bullet damaged a nerve so my foot is still recovering,” says the former Pakistani Prime Minister and onetime cricket icon. “I have a problem walking for too long.”\n\nIf the wound has slowed Khan, he doesn’t show it in a late-March Zoom interview. There is the same bushy mane, the easy laugh, prayer beads wrapped nonchalantly around his left wrist. But in the five years since our last conversation, something has changed. Power—or perhaps its forfeiture—has left its imprint. Following his ouster in a parliamentary no-confidence vote in April 2022, Khan has mobilized his diehard support base in a “jihad,” as he puts it, to demand snap elections, claiming he was unfairly toppled by a U.S.-sponsored plot. ​​(The State Department has denied the allegations.)",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "image": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "4IAj7cAocNTLz8kkUsHAWl"
+                    }
+                },
+                "authorName": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Entry",
+                        "id": "1PdcfxyOJ4kMX6FoB2Y3x4"
+                    }
+                }
+            }
+        },
+        {
+            "metadata": {
+                "tags": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ht0d1lf54ae1"
+                    }
+                },
+                "id": "7o1fdyEdy3mPOvbLfVWx4T",
+                "type": "Entry",
+                "createdAt": "2023-04-16T12:06:31.577Z",
+                "updatedAt": "2023-04-16T16:20:36.080Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "revision": 3,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "blogPost"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Apple's first India store, China GDP, Taiwan display show",
+                "articleText": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Welcome to Your Week in Asia.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Apple is set to open its ",
+                                    "nodeType": "text"
+                                },
+                                {
+                                    "data": {
+                                        "uri": "https://asia.nikkei.com/Business/Retail/Apple-s-first-India-store-to-launch-Tuesday"
+                                    },
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "marks": [
+                                                {
+                                                    "type": "bold"
+                                                },
+                                                {
+                                                    "type": "underline"
+                                                }
+                                            ],
+                                            "value": "first two directly run stores in India",
+                                            "nodeType": "text"
+                                        }
+                                    ],
+                                    "nodeType": "hyperlink"
+                                },
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": " this week, looking to take a slice of the growing middle- and upper-class market now dominated by Chinese and South Korean brands.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "China's Huawei Technologies will hold its annual Global Analyst Summit. The telecommunications equipment giant recently said it will ",
+                                    "nodeType": "text"
+                                },
+                                {
+                                    "data": {
+                                        "uri": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-will-support-all-of-China-s-efforts-on-chip-self-reliance"
+                                    },
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "marks": [
+                                                {
+                                                    "type": "bold"
+                                                },
+                                                {
+                                                    "type": "underline"
+                                                }
+                                            ],
+                                            "value": "support all China's efforts",
+                                            "nodeType": "text"
+                                        }
+                                    ],
+                                    "nodeType": "hyperlink"
+                                },
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": " to be self-sufficient in chips and that the company and its partners have jointly developed electronic design automation (EDA) tools -- vital software for designing chips -- for 14-nanometer chip technology. Separately, industry leader Taiwan Semiconductor Manufacturing Co. is announcing first quarter results on Thursday.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Japan will hold the second round of local elections next Sunday, with voters picking mayors and assembly members for wards in Tokyo, smaller cities, towns and villages. It is also holding five by-elections for the nation's parliament.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Get the best of our coverage of Asia and much more by following us on Twitter ",
+                                    "nodeType": "text"
+                                },
+                                {
+                                    "data": {
+                                        "uri": "https://twitter.com/nikkeiasia"
+                                    },
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "marks": [
+                                                {
+                                                    "type": "bold"
+                                                }
+                                            ],
+                                            "value": "@NikkeiAsia",
+                                            "nodeType": "text"
+                                        }
+                                    ],
+                                    "nodeType": "hyperlink"
+                                },
+                                {
+                                    "data": {},
+                                    "marks": [
+                                        {
+                                            "type": "bold"
+                                        }
+                                    ],
+                                    "value": ".",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "image": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "5dIGHBI2g0bDKqivdkd1kn"
+                    }
+                },
+                "authorName": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Entry",
+                        "id": "1PdcfxyOJ4kMX6FoB2Y3x4"
+                    }
+                }
+            }
+        }
+    ],
+    "includes": {
+        "Entry": [
+            {
+                "metadata": {
+                    "tags": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ht0d1lf54ae1"
+                        }
+                    },
+                    "id": "1PdcfxyOJ4kMX6FoB2Y3x4",
+                    "type": "Entry",
+                    "createdAt": "2023-04-16T16:19:56.596Z",
+                    "updatedAt": "2023-04-16T17:00:30.243Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 2,
+                    "contentType": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "ContentType",
+                            "id": "author"
+                        }
+                    },
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "name": "Ahmed Saleem Shaikh",
+                    "authorImage": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Asset",
+                            "id": "5h9L1sZI0RLmBizBuqYoEb"
+                        }
+                    }
+                }
+            }
+        ],
+        "Asset": [
+            {
+                "metadata": {
+                    "tags": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ht0d1lf54ae1"
+                        }
+                    },
+                    "id": "4IAj7cAocNTLz8kkUsHAWl",
+                    "type": "Asset",
+                    "createdAt": "2023-04-16T15:39:37.800Z",
+                    "updatedAt": "2023-04-16T15:39:37.800Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Imran Khan on His Plan to Return to Power",
+                    "description": "",
+                    "file": {
+                        "url": "//images.ctfassets.net/ht0d1lf54ae1/4IAj7cAocNTLz8kkUsHAWl/d72b4c96129d7e2a1bc00c5332a67dc4/imran-khan-1.webp",
+                        "details": {
+                            "size": 199104,
+                            "image": {
+                                "width": 2400,
+                                "height": 1600
+                            }
+                        },
+                        "fileName": "imran-khan-1.webp",
+                        "contentType": "image/webp"
+                    }
+                }
+            },
+            {
+                "metadata": {
+                    "tags": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ht0d1lf54ae1"
+                        }
+                    },
+                    "id": "5dIGHBI2g0bDKqivdkd1kn",
+                    "type": "Asset",
+                    "createdAt": "2023-04-16T12:04:27.242Z",
+                    "updatedAt": "2023-04-16T12:06:58.312Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 3,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Apple's first India store, China GDP, Taiwan display show",
+                    "description": "",
+                    "file": {
+                        "url": "//images.ctfassets.net/ht0d1lf54ae1/5dIGHBI2g0bDKqivdkd1kn/4562ed5770ca1eca9aaed196a22ae0f8/https_3A_2F_2Fs3-ap-northeast-1.amazonaws.com_2Fpsh-ex-ftnikkei-3937bb4_2Fimages_2F3_2F9_2F9_2F1_2F45231993-12-eng-GB_2FCrop.JPG",
+                        "details": {
+                            "size": 106055,
+                            "image": {
+                                "width": 1400,
+                                "height": 787
+                            }
+                        },
+                        "fileName": "https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F3%2F9%2F9%2F1%2F45231993-12-eng-GB%2FCropped-1681484961-04-05T152541Z_472970938_RC2D80AIH9TP_RTRMADP_3_APPLE-INDIA-RETAIL%20%281%29.JPG",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "metadata": {
+                    "tags": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ht0d1lf54ae1"
+                        }
+                    },
+                    "id": "5h9L1sZI0RLmBizBuqYoEb",
+                    "type": "Asset",
+                    "createdAt": "2023-04-16T16:59:38.244Z",
+                    "updatedAt": "2023-04-17T11:47:50.038Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 2,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Ahmed Saleem Shaikh",
+                    "description": "",
+                    "file": {
+                        "url": "//images.ctfassets.net/ht0d1lf54ae1/5h9L1sZI0RLmBizBuqYoEb/07ff3addc6accde26a1e3bfbce03d10e/IMG-1996_3.jpg",
+                        "details": {
+                            "size": 1454353,
+                            "image": {
+                                "width": 2032,
+                                "height": 2192
+                            }
+                        },
+                        "fileName": "IMG-1996 3.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            }
+        ]
+    }
+}
