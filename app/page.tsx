@@ -31,7 +31,9 @@ const page = async () => {
                             {item.fields.title}
                         </div>
 
-                        <div className="box">{documentToReactComponents(item.fields.articleText)}</div>
+                        <div className="box">
+                            {documentToReactComponents(item.fields.articleText)}
+                        </div>
 
                         <div>
                             <img
